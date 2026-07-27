@@ -2,7 +2,7 @@
 
 # 📝 Note App
 
-A modern and responsive note-taking application built with **React**, **Bootstrap**, and **Appwrite**.
+A modern, responsive, and user-friendly note-taking application built with **React**, **Vite**, and **Bootstrap**. The application provides an intuitive interface for creating, editing, deleting, and organizing notes with a seamless user experience.
 
 <p align="center">
   <a href="https://note-app-dusky-six.vercel.app/login">

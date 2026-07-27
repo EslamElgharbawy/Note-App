@@ -42,13 +42,15 @@ A simple and responsive note-taking application that allows users to create, edi
 - ✏️ Edit Notes
 - 🗑️ Delete Notes
 - 🔍 Search Notes
-- 📱 Fully Responsive
-- ☁️ Appwrite Backend
-- ⚡ Fast & Clean UI
+- 📱 Fully Responsive Design
+- ⚡ Fast Navigation with React Router
+- ✅ Form Validation using Formik & Yup
+- 🍞 Toast Notifications
+- 🎨 Clean & Modern UI
 
 ---
 
 ## 🛠️ Technologies Used
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,vite,js,bootstrap,git,github,vscode" />
 

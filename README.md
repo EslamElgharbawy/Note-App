@@ -13,8 +13,6 @@ A modern, responsive, and user-friendly note-taking application built with **Rea
 
   <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Appwrite-Database-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Responsive-Yes-blue?style=for-the-badge" />
 
 </p>
